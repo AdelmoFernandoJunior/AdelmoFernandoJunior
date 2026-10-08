@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/AdelmoFernandoJunior"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:juniorflima06@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/AdelmoFernandoJunior"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
@@ -21,6 +21,7 @@
 <td width="100%" valign="top">
 
 - 🔭 Atualmente focado em desenvolvimento back-end escalável, engenharia de dados e arquitetura de nuvem.
+- 🎓 Cursando pós-graduação para aprimorar ainda mais a base acadêmica e técnica.
 - ☁️ Certificado **AWS Certified Cloud Practitioner**.
 - 💡 Apaixonado por automações de processos, otimização de queries, Clean Code e segurança da informação.
 
@@ -122,11 +123,20 @@ Configuração de métricas customizadas, alertas proativos e rastreamento de pe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts&theme=light"/>
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,linux,git,github,postman&theme=light"/>
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,pytest,vscode,figma,notion&theme=light"/>
+  <p><b>Linguagens</b></p>
+  <img src="https://skillicons.dev/icons?i=python,cs,ts&theme=light"/>
+
+  <p><b>Cloud, Infraestrutura & Observabilidade</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,linux&theme=light"/>
+
+  <p><b>Banco de Dados & Cache</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=light"/>
+
+  <p><b>Qualidade & Processos</b></p>
+  <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
+
+  <p><b>Produtividade & IA</b></p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion&theme=light"/>
 
 </div>
 
@@ -146,7 +156,7 @@ Estou sempre aberto a novas oportunidades, colaborações e desafios na área de
 
 <div align="center">
 
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:juniorflima06@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
