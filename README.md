@@ -30,6 +30,94 @@
 
 <br>
 
+## Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### API de Processamento Serverless (AWS)
+Arquitetura back-end orientada a eventos utilizando serviços em nuvem para processamento assíncrono de dados com alta escalabilidade e baixo custo.
+
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-38bdf8?style=flat-square)
+![SQS / SNS](https://img.shields.io/badge/SQS_/_SNS-38bdf8?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+<td width="50%" valign="top">
+
+### Pipeline de Dados em Tempo Real (Kafka)
+Sistema de ingestão e streaming de dados de alta vazão para monitoramento de eventos distribuídos e publicação em tempo real.
+
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-38bdf8?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-38bdf8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Microserviço Back-End com FastAPI
+API RESTful focada em performance, documentação automatizada, validação rigorosa de dados e testes unitários abrangentes.
+
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-38bdf8?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-38bdf8?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+<td width="50%" valign="top">
+
+### Otimizador e Modelagem SQL
+Repositório focado em boas práticas de banco de dados relacional, tuning de consultas complexas e modelagem eficiente para alta performance.
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-38bdf8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL_Tuning-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Automação CI/CD com GitHub Actions
+Pipeline automatizado de integração e entrega contínua para validação de código, execução de testes de qualidade e deploy seguro em infraestrutura.
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-38bdf8?style=flat-square)
+![Git](https://img.shields.io/badge/Git-38bdf8?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+<td width="50%" valign="top">
+
+### Sistema de Monitoramento com Datadog
+Configuração de métricas customizadas, alertas proativos e rastreamento de performance para aplicações críticas em nuvem.
+
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-38bdf8?style=flat-square)
+![Datadog](https://img.shields.io/badge/Datadog-38bdf8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+
+[Código](https://github.com/AdelmoFernandoJunior)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## Tecnologias e Ferramentas
 
 <div align="center">
