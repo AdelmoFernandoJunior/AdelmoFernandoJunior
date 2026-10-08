@@ -1,49 +1,65 @@
 <div align="center">
-  <h1>Adelmo Fernando de Lima Junior</h1>
-  <p><strong>Engenheiro de Software | Back-End, Arquitetura de Nuvem & Automações</strong></p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/adelmofernando" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:juniorflima06@gmail.com">
-      <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1e293b,100:0f172a&height=200&section=header&text=Adelmo%20Fernando&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software+Back--End;Arquitetura+de+Nuvem+%26+Automa%C3%A7%C3%B5es;Transformando+dados+em+solu%C3%A7%C3%B5es+escal%C3%A1veis"/>
+
+<br>
+
+<a href="https://linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/AdelmoFernandoJunior"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
 </div>
 
----
+<br>
 
-### Sobre mim
+## Sobre mim
+
+<table>
+<tr>
+<td width="100%" valign="top">
 
 - 🔭 Atualmente focado em desenvolvimento back-end escalável, engenharia de dados e arquitetura de nuvem.
 - ☁️ Certificado **AWS Certified Cloud Practitioner**.
-- 💡 Apaixonado por automações de processos, otimização de queries e segurança da informação.
+- 💡 Apaixonado por automações de processos, otimização de queries, Clean Code e segurança da informação.
 
----
+</td>
+</tr>
+</table>
 
-### Tecnologias e Ferramentas
+<br>
+
+## Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Linguagens & Dados -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" title="SQL Server" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Apache Kafka" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest" title="Pytest" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts&theme=light"/>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,linux,git,github,postman&theme=light"/>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,pytest,vscode,figma,notion&theme=light"/>
+
 </div>
 
----
+<br>
 
-### Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdelmoFernandoJunior&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<br>
+
+## Vamos conversar
+
+Estou sempre aberto a novas oportunidades, colaborações e desafios na área de tecnologia.
+
+<div align="center">
+
+<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/adelmoflima"><img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
