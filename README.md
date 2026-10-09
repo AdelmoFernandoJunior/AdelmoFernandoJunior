@@ -127,7 +127,7 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
 
   <p><b>Produtividade & IA</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,copilot&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,stackspot ai,claude ai,copilot,figma,draw.io&theme=light"/>
 
 </div>
 
