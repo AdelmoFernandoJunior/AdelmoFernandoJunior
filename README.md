@@ -127,7 +127,7 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
 
   <p><b>Produtividade & Ferramentas</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=light"/>
 
 </div>
 
