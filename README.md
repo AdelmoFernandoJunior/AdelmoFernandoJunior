@@ -126,8 +126,8 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <p><b>Qualidade & Processos</b></p>
   <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
 
-  <p><b>Produtividade & IA</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,stackspot ai,claude ai,copilot,figma,draw.io&theme=light"/>
+  <p><b>Produtividade & Ferramentas</b></p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma&theme=light"/>
 
 </div>
 
