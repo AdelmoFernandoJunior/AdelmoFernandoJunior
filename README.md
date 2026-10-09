@@ -124,10 +124,10 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=postgres,redis&theme=light"/>
 
   <p><b>Qualidade & Processos</b></p>
-  <img src="https://skillicons.dev/icons?i=pytest,git,github,insominia,postman&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
 
   <p><b>Produtividade & IA</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,copilot&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,copilot&theme=light"/>
 
 </div>
 
