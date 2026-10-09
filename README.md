@@ -20,7 +20,7 @@
 <tr>
 <td width="100%" valign="top">
 
-- 🔭 Desenvolvedor Back-End focado na construção de sistemas robustos, aplicando **Clean Code**, princípios SOLID e padrões de projeto.
+- 🔭 Desenvolvedor Back-End focado na construção de sistemas escaláveis e resilientes, aplicando padrões de projeto, arquitetura orientada a microsserviços e soluções em nuvem.
 - 🎓 Cursando **Pós-graduação Lato Sensu — Arquitetura de Software e Soluções com IA** pela **XP Educação**.
 - ☁️ Certificado **AWS Certified Cloud Practitioner**.
 - 💡 Apaixonado por automações de processos, otimização de queries, Clean Code e segurança da informação.
