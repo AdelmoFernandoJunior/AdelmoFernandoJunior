@@ -118,16 +118,16 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=python,cs,ts,terraform&theme=light"/>
 
   <p><b>Cloud, Infraestrutura & Observabilidade</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,datadog&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,datadog&theme=light"/>
 
   <p><b>Banco de Dados & Cache</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&theme=light"/>
 
   <p><b>Qualidade & Processos</b></p>
-  <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=pytest,git,github,insominia,postman&theme=light"/>
 
   <p><b>Produtividade & IA</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,notion&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,copilot&theme=light"/>
 
 </div>
 
