@@ -118,7 +118,7 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=python,cs,terraform&theme=light"/>
 
   <p><b>Cloud, Infraestrutura & Observabilidade</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=aws, datadog, docker,kafka&theme=light"/>
 
   <p><b>Banco de Dados & Cache</b></p>
   <img src="https://skillicons.dev/icons?i=sql server, redis, mysql, postgres, dynamodb&theme=light"/>
@@ -133,13 +133,13 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
 
 <br>
 
+<!--
 ## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdelmoFernandoJunior&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-<br>
+-->
 
 ## Vamos conversar
 
