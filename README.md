@@ -37,81 +37,72 @@
 <tr>
 <td width="50%" valign="top">
 
-### API de Processamento Serverless (AWS)
-Arquitetura back-end orientada a eventos utilizando serviços em nuvem para processamento assíncrono de dados com alta escalabilidade e baixo custo.
+### Projeto API
+Desenvolvimento de API estruturada para integração e manipulação de dados com foco em boas práticas de back-end.
 
 ![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-38bdf8?style=flat-square)
-![SQS / SNS](https://img.shields.io/badge/SQS_/_SNS-38bdf8?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-38bdf8?style=flat-square)
+![API](https://img.shields.io/badge/API-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/Projeto-api)
 
 </td>
 <td width="50%" valign="top">
 
-### Pipeline de Dados em Tempo Real (Kafka)
-Sistema de ingestão e streaming de dados de alta vazão para monitoramento de eventos distribuídos e publicação em tempo real.
+### FitBot
+Bot inteligente voltado para o ecossistema de saúde, fitness e automação de interações.
 
 ![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-38bdf8?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-38bdf8?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square)
+![Bot](https://img.shields.io/badge/Automation-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/fitbot)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Microserviço Back-End com FastAPI
-API RESTful focada em performance, documentação automatizada, validação rigorosa de dados e testes unitários abrangentes.
+### Cotas a Pagar
+Sistema de controle e gerenciamento financeiro focado no acompanhamento de cotas e pagamentos.
 
 ![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-38bdf8?style=flat-square)
-![Pytest](https://img.shields.io/badge/Pytest-38bdf8?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-38bdf8?style=flat-square)
+![Database](https://img.shields.io/badge/Finance-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/cotas_a_pagar)
 
 </td>
 <td width="50%" valign="top">
 
-### Otimizador e Modelagem SQL
-Repositório focado em boas práticas de banco de dados relacional, tuning de consultas complexas e modelagem eficiente para alta performance.
+### Conta Bancaria
+Aplicação modelada em Orientação a Objetos para simulação de transações, controle de saldos e operações de contas bancárias.
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-38bdf8?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL_Tuning-38bdf8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/ContaBancaria)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Automação CI/CD com GitHub Actions
-Pipeline automatizado de integração e entrega contínua para validação de código, execução de testes de qualidade e deploy seguro em infraestrutura.
+### API Gerenciamento Tarefas
+API robusta para controle de tarefas, permitindo operações completas de criação, leitura, atualização e exclusão (CRUD).
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-38bdf8?style=flat-square)
-![Git](https://img.shields.io/badge/Git-38bdf8?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-38bdf8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![FastAPI / API](https://img.shields.io/badge/CRUD-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/API_GerenciamentoTarefas)
 
 </td>
 <td width="50%" valign="top">
 
-### Sistema de Monitoramento com Datadog
-Configuração de métricas customizadas, alertas proativos e rastreamento de performance para aplicações críticas em nuvem.
+### TradeHub
+Plataforma voltada para operações, acompanhamento de mercado e processamento de dados financeiros.
 
-![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-38bdf8?style=flat-square)
-![Datadog](https://img.shields.io/badge/Datadog-38bdf8?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-38bdf8?style=flat-square)
+![Finance](https://img.shields.io/badge/Trade-38bdf8?style=flat-square)
 
-[Código](https://github.com/AdelmoFernandoJunior)
+[Código](https://github.com/AdelmoFernandoJunior/TradeHub)
 
 </td>
 </tr>
@@ -124,16 +115,16 @@ Configuração de métricas customizadas, alertas proativos e rastreamento de pe
 <div align="center">
 
   <p><b>Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=python,cs,ts&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,terraform&theme=light"/>
 
   <p><b>Cloud, Infraestrutura & Observabilidade</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka&theme=light"/>
 
   <p><b>Banco de Dados & Cache</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=sql server, redis, mysql, postgres, dynamodb&theme=light"/>
 
   <p><b>Qualidade & Processos</b></p>
-  <img src="https://skillicons.dev/icons?i=pytest,git,github,postman&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=pytest,git,github, insomnia, postman&theme=light"/>
 
   <p><b>Produtividade & IA</b></p>
   <img src="https://skillicons.dev/icons?i=vscode,figma,notion&theme=light"/>
