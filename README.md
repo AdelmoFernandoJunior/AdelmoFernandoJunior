@@ -20,8 +20,8 @@
 <tr>
 <td width="100%" valign="top">
 
-- 🔭 Atualmente focado em desenvolvimento back-end escalável, engenharia de dados e arquitetura de nuvem.
-- 🎓 Cursando pós-graduação para aprimorar ainda mais a base acadêmica e técnica.
+- 🔭 Desenvolvedor Back-End focado na construção de sistemas robustos, aplicando **Clean Code**, princípios SOLID e padrões de projeto.
+- 🎓 Cursando **Pós-graduação Lato Sensu — Arquitetura de Software e Soluções com IA** pela **XP Educação**.
 - ☁️ Certificado **AWS Certified Cloud Practitioner**.
 - 💡 Apaixonado por automações de processos, otimização de queries, Clean Code e segurança da informação.
 
