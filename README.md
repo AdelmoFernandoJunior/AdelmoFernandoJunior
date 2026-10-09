@@ -118,7 +118,7 @@ Plataforma voltada para operações, acompanhamento de mercado e processamento d
   <img src="https://skillicons.dev/icons?i=python,cs,ts,terraform&theme=light"/>
 
   <p><b>Cloud, Infraestrutura & Observabilidade</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,datadog&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,terraform,datadog&theme=light"/>
 
   <p><b>Banco de Dados & Cache</b></p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=light"/>
